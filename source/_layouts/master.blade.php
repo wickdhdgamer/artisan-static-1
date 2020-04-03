@@ -19,7 +19,7 @@
 <body>
     <header>
         <nav>
-            <strong>{{ WRONG WEBSITE }}</strong><br>
+            <strong>{{ $page->site->title }}</strong><br>
             <ul>
                 <li><a href="/">Home</a></li>
                 <li><a href="/posts">Posts</a></li>
