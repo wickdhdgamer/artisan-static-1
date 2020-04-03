@@ -5,7 +5,7 @@
 @section('content')
     <h1>About</h1>
 
-    <p>My name is {{ $page->owner->name }}</p>
+    <p>My name is Niru Saba</p>
 
     <h2>Links:</h2>
 
