@@ -4,8 +4,8 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'ColorsofNivi',
+        'description' => 'Saree Collection and more.',
         'image' => 'default-share.png',
     ],
     'owner' => [
