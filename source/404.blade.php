@@ -4,7 +4,7 @@ permalink: 404.html
 
 @extends('_layouts.master')
 
-@section('title', 'Page not found')
+@section('title', 'go to colorsofnivi.com')
 
 @section('content')
     <h1>404 Error</h1>
